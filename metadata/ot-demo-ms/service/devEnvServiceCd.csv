@@ -2,9 +2,6 @@ service,application,environment_master,application_env,desired_replication,reque
 app2,ot-demo-ms,dev,dev-main,1,100,100,100,100,/health,8081,5,5,20,100
 ot-emp-salary,ot-demo-ms,dev,dev-main,1,100,100,100,100,/health,8081,5,5,20,100
 ot-emp-ui,ot-demo-ms,dev,dev-main,1,100,100,100,100,/health,8081,5,5,20,100
-app2,ot-demo-ms,dev,dev2,1,100,100,100,100,/health,8081,5,5,20,100
-ot-emp-salary,ot-demo-ms,dev,dev2,1,100,100,100,100,/health,8081,5,5,20,100
-ot-emp-ui,ot-demo-ms,dev,dev2,1,100,100,100,100,/health,8081,5,5,20,100
 app2,ot-demo-ms,dev,dev-helm,1,100,100,100,100,/health,8081,5,5,20,100
 ot-emp-salary,ot-demo-ms,dev,dev-helm,1,100,100,100,100,/health,8081,5,5,20,100
 ot-emp-ui,ot-demo-ms,dev,dev-helm,1,100,100,100,100,/health,8081,5,5,20,100

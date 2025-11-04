@@ -2,9 +2,6 @@ application,service,application_env,image_name,repo_id,repo_branch,job_template,
 ot-demo-ms,ot-emp-ui,dev-main,dev/dev-main/ot-emp-ui,OT-Microservice,master,devsecops-python-ci-v2,Dockerfile,frontend
 ot-demo-ms,ot-emp-salary,dev-main,dev/dev-main/ot-emp-salary,ot-micro-salary,main,ot-demo-ms-v2,Dockerfile,.
 ot-demo-ms,app2,dev-main,dev/dev-main/app2,ot-micro-salary,main,ot-demo-ms-v2,Dockerfile,.
-ot-demo-ms,ot-emp-ui,dev2,dev/dev2/ot-emp-ui,OT-Microservice,master,ot-demo-ms-v2,Dockerfile,frontend
-ot-demo-ms,ot-emp-salary,dev2,dev/dev2/ot-emp-salary,ot-micro-salary,main,ot-demo-ms-v2,Dockerfile,.
-ot-demo-ms,app2,dev2,dev/dev2/app2,ot-micro-salary,main,ot-demo-ms-v2,Dockerfile,.
 ot-demo-ms,ot-emp-ui,dev-helm,dev/dev-helm/ot-emp-ui,OT-Microservice,master,ot-demo-ms-v2,Dockerfile,frontend
 ot-demo-ms,ot-emp-salary,dev-helm,dev/dev-helm/ot-emp-salary,ot-micro-salary,main,ot-demo-ms-v2,Dockerfile,.
 ot-demo-ms,app2,dev-helm,dev/dev-helm/app2,ot-micro-salary,main,ot-demo-ms-v2,Dockerfile,.
