@@ -1,0 +1,10 @@
+service,application,environment_master,application_env,desired_replication,requests_memory_quota,requests_cpu_quota,limits_cpu_quota,limits_memory_quota,readiness_probe_path,readiness_probe_port,readiness_initial_delay_seconds,readiness_period_seconds,readiness_timeout_seconds,readinesss_failure_threshold
+app2,ot-demo-ms,dev,dev-main,1,100,100,100,100,/health,8081,5,5,20,100
+ot-emp-salary,ot-demo-ms,dev,dev-main,1,100,100,100,100,/health,8081,5,5,20,100
+ot-emp-ui,ot-demo-ms,dev,dev-main,1,100,100,100,100,/health,8081,5,5,20,100
+app2,ot-demo-ms,dev,dev2,1,100,100,100,100,/health,8081,5,5,20,100
+ot-emp-salary,ot-demo-ms,dev,dev2,1,100,100,100,100,/health,8081,5,5,20,100
+ot-emp-ui,ot-demo-ms,dev,dev2,1,100,100,100,100,/health,8081,5,5,20,100
+app2,ot-demo-ms,dev,dev-helm,1,100,100,100,100,/health,8081,5,5,20,100
+ot-emp-salary,ot-demo-ms,dev,dev-helm,1,100,100,100,100,/health,8081,5,5,20,100
+ot-emp-ui,ot-demo-ms,dev,dev-helm,1,100,100,100,100,/health,8081,5,5,20,100

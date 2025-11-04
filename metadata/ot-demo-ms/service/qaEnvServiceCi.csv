@@ -1,0 +1,4 @@
+application,service,application_env,image_name,repo_id,repo_branch,job_template,dockerfile,context
+ot-demo-ms,ot-emp-ui,qa-main,qa/qa-main/ot-emp-ui,OT-Microservice,master,ot-demo-ms-v2,Dockerfile,frontend
+ot-demo-ms,ot-emp-salary,qa-main,qa/qa-main/ot-emp-salary,ot-micro-salary,main,ot-demo-ms-v2,Dockerfile,.
+ot-demo-ms,app2,qa-main,qa/qa-main/app2,ot-micro-salary,main,ot-demo-ms-v2,Dockerfil,.
