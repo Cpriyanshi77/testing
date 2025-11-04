@@ -1,1 +1,2 @@
 reponame,git_provider,url,credential
+testing-repo,Github,https://github.com/Cpriyanshi77/testing.git,pri-gitlab
