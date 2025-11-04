@@ -1,10 +1,4 @@
 application,service,application_env,master_env,cluster,namespace,manual_build,manual_deploy,job_template,registry
-ot-demo-ms,app2,dev-main,dev,ot-aws-cluster,demo-dev,true,true,bp,mi-template,dev/dev-main/app2
-ot-demo-ms,app2,dev-helm,dev,ot-aws-cluster,demo-dev,true,true,bp,mi-template,dev/dev-helm/app2
-ot-demo-ms,app2,qa-main,qa,ot-aws-cluster,demo-dev,true,true,bp,mi-template,qa/qa-main/app2
-ot-demo-ms,ot-emp-ui,dev-main,dev,ot-aws-cluster,demo-dev,true,true,bp,mi-template,dev/dev-main/ot-emp-ui
-ot-demo-ms,ot-emp-ui,dev-helm,dev,ot-aws-cluster,demo-dev,true,true,bp,mi-template,dev/dev-helm/ot-emp-ui
-ot-demo-ms,ot-emp-ui,qa-main,qa,ot-aws-cluster,demo-dev,true,true,bp,mi-template,qa/qa-main/ot-emp-ui
-ot-demo-ms,ot-emp-salary,dev-main,dev,ot-aws-cluster,demo-dev,true,true,bp,mi-template,dev/dev-main/ot-emp-salary
-ot-demo-ms,ot-emp-salary,dev-helm,dev,ot-aws-cluster,demo-dev,true,true,bp,mi-template,dev/dev-helm/ot-emp-salary
-ot-demo-ms,ot-emp-salary,qa-main,qa,ot-aws-cluster,demo-dev,true,true,bp,mi-template,qa/qa-main/ot-emp-salary
+ot-demo-ms,app123,dev-main,dev,ot-aws-cluster,demo-dev,true,true,bp,mi-template,dev/dev-main/app2
+ot-demo-ms,app123,dev-helm,dev,ot-aws-cluster,demo-dev,true,true,bp,mi-template,dev/dev-helm/app2
+ot-demo-ms,app123,qa-main,qa,ot-aws-cluster,demo-dev,true,true,bp,mi-template,qa/qa-main/app2
